@@ -1,2 +1,1 @@
-# docker.nvim
-Docker tools for Neovim
+Nothing to see here. Yet...
